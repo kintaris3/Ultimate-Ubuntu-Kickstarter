@@ -2,7 +2,7 @@
 Interactive post-install configurator, debloater, and app installer for fresh Ubuntu systems.
 # Ultimate Ubuntu Kickstart
 
-An interactive post-install configurator, debloater, and app installer for fresh Ubuntu 26.04+ installations—complete with a custom ASCII mascot.
+An interactive post-install configurator, debloater, and app installer for fresh Ubuntu 26.04+ installations—complete with a custom ASCII mascot. Apart of the Ultimate Ubuntu Suite!
 
 ![Preview](UUK_Preview.png)
 
